@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Val</h1>
-<h3 align="center">I'm a student in my first year of IT studies</h3>
+<h3 align="center">I'm a student in my second year of IT studies</h3>
 
 <p align="left">
 </p>
